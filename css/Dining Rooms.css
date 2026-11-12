@@ -1,0 +1,20 @@
+#BOX {font-family: arial; 
+	background-color: #eeeeee; 
+	width: 250px;float:left; 
+	border-top:orange solid 17px;
+	margin-left: 10px;
+	margin-right:10px}
+
+#BOX2 {font-family: arial;
+	background-color: #eeeeee;
+	width: 250px;float:left;
+	border-top:red solid 17px;
+	margin-left: 10px;
+	margin-right:10px}
+
+#BOX3 {font-family: arial;
+	background-color: #eeeeee; 
+	width: 250px;float:left;
+	border-top:green solid 17px;
+	margin-left: 10px;
+	margin-right:10px}
